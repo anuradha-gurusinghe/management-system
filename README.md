@@ -3,4 +3,4 @@
 #### Used Tech Stack
 
 - Java
-- SQL
+- MYSQL
